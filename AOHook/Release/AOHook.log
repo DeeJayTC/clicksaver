@@ -1,0 +1,3 @@
+﻿  AOHook.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1205,5): warning MSB8012: TargetPath(E:\Workspaces TCDev Github\AO\clicksaver\AOHook\.\Release\AOHook.dll) entspricht nicht dem OutputFile-Eigenschaftswert (E:\Workspaces TCDev Github\AO\clicksaver\AOHook\AOHook.dll) von Linker. Das Projekt wird daher möglicherweise nicht ordnungsgemäß erstellt. Damit dieses Problem behoben werden kann, müssen die Eigenschaftswerte für $(OutDir), $(TargetName) und $(TargetExt) dem in %(Link.OutputFile) angegebenen Wert entsprechen.
+  AOHook.vcxproj -> E:\Workspaces TCDev Github\AO\clicksaver\AOHook\.\Release\AOHook.dll
